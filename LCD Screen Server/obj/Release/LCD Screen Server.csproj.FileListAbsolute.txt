@@ -1,0 +1,8 @@
+D:\Adam\Documents\Visual Studio 2015\Projects\LCD Screen Server\LCD Screen Server\bin\Release\LCD Screen Server.exe.config
+D:\Adam\Documents\Visual Studio 2015\Projects\LCD Screen Server\LCD Screen Server\bin\Release\LCD Screen Server.exe
+D:\Adam\Documents\Visual Studio 2015\Projects\LCD Screen Server\LCD Screen Server\bin\Release\LCD Screen Server.pdb
+D:\Adam\Documents\Visual Studio 2015\Projects\LCD Screen Server\LCD Screen Server\bin\Release\OpenHardwareMonitorLib.dll
+D:\Adam\Documents\Visual Studio 2015\Projects\LCD Screen Server\LCD Screen Server\obj\Release\LCD Screen Server.csprojResolveAssemblyReference.cache
+D:\Adam\Documents\Visual Studio 2015\Projects\LCD Screen Server\LCD Screen Server\obj\Release\LCD Screen Server.exe
+D:\Adam\Documents\Visual Studio 2015\Projects\LCD Screen Server\LCD Screen Server\obj\Release\LCD Screen Server.pdb
+D:\Adam\Documents\Visual Studio 2015\Projects\LCD Screen Server\LCD Screen Server\obj\Release\LCD Screen Server.csproj.CoreCompileInputs.cache
